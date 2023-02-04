@@ -1,0 +1,6 @@
+[submodule "FFUS-Backend"]
+	path = FFUS-Backend
+	url = https://github.com/sazzeck/FFUS-Backend
+[submodule "FFUS-Frontend"]
+	path = FFUS-Frontend
+	url = https://github.com/sazzeck/FFUS-Frontend
